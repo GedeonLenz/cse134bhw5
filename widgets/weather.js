@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', (e) => {
+document.addEventListener('DOMContentLoaded', () => {
     class WeatherWidget extends HTMLElement {
         constructor() {
             super();

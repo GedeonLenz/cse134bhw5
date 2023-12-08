@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', (e) => {
+document.addEventListener('DOMContentLoaded', () => {
     class RatingWidget extends HTMLElement {
         clicked = false
         constructor() {
